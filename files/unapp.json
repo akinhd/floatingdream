@@ -6421,16 +6421,14 @@
       "author": "Mathy",
       "url": "https://c2.staticflickr.com/8/7900/31594881747_487afe0eb2_o.png",
       "name": "Shark",
-      "dimensions": "1440x2560",
-      "copyright": "Sharing and reselling is prohibited",
+      "dimensions": "1440x2560",  "copyright": "Sharing and reselling is prohibited",
       "collections": "Nature"
     },
 	{
       "author": "Mathy",
       "url": "https://c2.staticflickr.com/8/7847/44717790350_aac16c4c0a_o.png",
       "name": "Shark Alt",
-      "dimensions": "1440x2560",
-      "copyright": "Sharing and reselling is prohibited",
+      "dimensions": "1440x2560",  "copyright": "Sharing and reselling is prohibited",
       "collections": "Nature"
     },
 	{
@@ -6446,5 +6444,5 @@
       "name": "Light House Alt",
       "dimensions": "1440x2560",  "copyright": "Sharing and reselling is prohibited",
       "collections": "Landscapes"
-    },
+    }
   ]
